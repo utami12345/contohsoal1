@@ -42,4 +42,5 @@ rata_rata = total_nilai / n
 
 print("\nRata-rata kelas:", rata_rata)
 print("Nilai tertinggi:", nama_tertinggi, "-", nilai_tertinggi)
+
 print("Jumlah lulus:", jumlah_lulus)
